@@ -85,6 +85,7 @@ Partial Class Perhitungan
         ' 
         ' TextBox3
         ' 
+        TextBox3.Enabled = False
         TextBox3.Location = New Point(74, 80)
         TextBox3.Name = "TextBox3"
         TextBox3.Size = New Size(151, 28)
